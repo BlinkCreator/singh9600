@@ -1,5 +1,8 @@
 ### Hi there 👋
+I'm a Computer Systems Engineering student at The University of Auckland. I work on projects involving Software and Computer Hardware. 
 
+- 🌱 I’m currently learning about Software Architecture and Web-Dev. 
+- 📫 How to reach me: hsingh9600@gmail.com
 <!--
 **singh9600/singh9600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

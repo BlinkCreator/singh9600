@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Harpreet
 I'm a Computer Systems Engineering student at The University of Auckland. I work on projects involving Software and Computer Hardware. 
 
 - 🌱 I’m currently learning about Software Architecture and Web-Dev. 
-- 📫 How to reach me: hsingh9600@gmail.com
+- ⚡ **Languages**: C, C++, Java, Python, JavaScript | **Technologies**: PyTorch, NodeJs, Flutter, ReactJs
+- 📫 How to reach me: <br>Email: hsingh9600@gmail.com<br> LinkedIn: https://www.linkedin.com/in/singh9600/
 <!--
 **singh9600/singh9600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

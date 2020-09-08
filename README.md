@@ -4,6 +4,10 @@ I'm a Penultimate year Computer Systems Engineering student at The University of
 - 🌱 I’m currently learning about Software Architecture and Web-Dev. 
 <!-- - ⚡ **Languages**: C, C++, Java, Python, JavaScript | **Technologies**: PyTorch, NodeJs, Flutter, VueJs, ExpressJS -->
 - 📫 How to reach me: <br>Email: hsingh9600@gmail.com<br> LinkedIn: https://www.linkedin.com/in/singh9600/
+- 💻 &nbsp; Python | Java | C++ | C | JavaScript | MATLAB
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | VueJS | ExpressJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | PyTorch
 
 <h3>🛠 Tech Stack</h3>
 - 🌱 I’m currently learning about Software Architecture and Web-Dev. 

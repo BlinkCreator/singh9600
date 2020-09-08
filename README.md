@@ -6,6 +6,9 @@ I'm a Penultimate year Computer Systems Engineering student at The University of
 - 📫 How to reach me: <br>Email: hsingh9600@gmail.com<br> LinkedIn: https://www.linkedin.com/in/singh9600/
 
 <h3>🛠 Tech Stack</h3>
+-dfgd
+-dfgdfg
+-dfgdf
 - 💻 &nbsp; Python | Java | C++ | C | JavaScript | MATLAB
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | VueJS | ExpressJS
 - 🛢 &nbsp; MySQL | MongoDB
